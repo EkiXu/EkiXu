@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Eki
 
-👾 CTFer@Dubhe, interested in WEB and all the code-breaking puzzles
+👾 CTFer@Redbud, interested in WEB and all the code-breaking puzzles
 
 🚀️ Do well in full-stack development
 
